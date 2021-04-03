@@ -9,7 +9,7 @@ Computer Science Engineer
 Currently enrolled in Computer Science, Master's program  at Technical University of Munich (TUM).
 
 
-[a relative link](second_page.md/#second-page)
+[a relative link](second_page.md/#why-do-we-use-it)
 
 
 
